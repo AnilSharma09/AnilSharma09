@@ -12,7 +12,7 @@
 - 📚 Author of **QualityAnalystRoadmap** — a self-written, open-source QA learning repository covering Manual Testing, API Testing, and Automation fundamentals
 - 🚀 Live projects: [AI Interviewer](https://aiinterviewer-anil-sharma.streamlit.app/) · [AI Fashion Assistant](https://ai-fashion-assistant-awsuifwmtrr6nmmwuegtpk.streamlit.app/)
 - 🎯 Long-term goal: Grow into a top-tier SDET / AI-QA Engineer role
-- 💬 Ask me about: Manual Testing, API Testing (Postman), QA Documentation, Python fundamentals
+- 💬 Ask me about: Manual Testing, API Testing (Postman), QA Documentation, Python fundamentals, SQL And Git/Github.
 - 📫 Email: **as3658349@gmail.com**
 
 ---
