@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/anil-sharma-857b2925a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="[https://anilsharma09.github.io/QA-Portfolio/](https://anilsharma09.github.io/AnilSharma09_Portfolio/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="[[https://anilsharma09.github.io/QA-Portfolio](https://anilsharma09.github.io/AnilSharma09_Portfolio/)/](https://anilsharma09.github.io/AnilSharma09_Portfolio/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://www.kaggle.com/anilsharma01" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Anilshar_09/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.hackerrank.com/profile/as3658349" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
